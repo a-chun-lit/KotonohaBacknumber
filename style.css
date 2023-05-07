@@ -1,0 +1,25 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+section{
+    margin-left: 50px;
+    margin-top: 20px;
+    letter-spacing: 0.3px;
+    line-height: 40px;
+}
+
+section a{
+    font-size: 20px;
+}
+
